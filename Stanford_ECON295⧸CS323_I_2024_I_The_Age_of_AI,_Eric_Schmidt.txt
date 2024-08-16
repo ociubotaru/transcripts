@@ -1,5 +1,11 @@
-Stanford_ECON295⧸CS323_I_2024_I_The_Age_of_AI,_Eric_Schmidt 
+Stanford ECON295⧸CS323 I 2024 I The Age of AI, Eric Schmidt 
 -------------------------------------------------------------------
+
+Audio file: https://drive.google.com/file/d/1eQPHqcRwChpTHYEUQlhUDnBNnCSCTXtp/view?usp=drive_link
+Transcribed with Whisper, Medium model: https://github.com/ggerganov/whisper.cpp
+
+-------------------------------------------------------------------
+
 today's guest really does need an introduction.
 I think I first met Eric about 25 years ago when he came to Stanford Business School as CEO of Novell.
 He's had done a few things since then at Google starting I think 2001 and Schmidt Futures starting in 2017 and done a whole bunch of other things you can read about, but he can only be here until 5/15, so I thought we'd dive right into some questions, and I know you guys have sent some as well.
