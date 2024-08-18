@@ -135,7 +135,7 @@ That's because he doesn't have a choice.
 If he had infinite money, he would, today he would pick the B200 architecture out of Nvidia because it would be faster.
 And I'm not suggesting, I mean, it's great to have competition.
 I've talked to AMD and Lisa Sue at great length.
-They have built a, a thing which will translate from this CUDA architecture that you were describing to their own, which is called Rockum.
+They have built a, a thing which will translate from this CUDA architecture that you were describing to their own, which is called ROCm.
 It doesn't quite work yet.
 
 They're working on it.
